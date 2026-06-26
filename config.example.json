@@ -1,0 +1,15 @@
+{
+  "time_start": 7,
+  "time_end": 23,
+  "min_count": 1,
+  "max_count": 3,
+  "push_channel": "ntfy",
+  "ntfy_topic": "YOUR_TOPIC",
+  "ntfy_server": "https://ntfy.sh",
+  "telegram_bot_token": "YOUR_BOT_TOKEN",
+  "telegram_chat_id": "YOUR_CHAT_ID",
+  "model": "claude-sonnet-4-6",
+  "style": "说话简短，像朋友随手发的消息。不写作文，不说正确的废话。可以嘴欠，可以催她睡觉。",
+  "ombre_transport": "http",
+  "ombre_url": "http://localhost:8080"
+}

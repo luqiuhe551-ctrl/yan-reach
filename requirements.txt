@@ -1,0 +1,5 @@
+apscheduler>=3.10
+jieba>=0.42
+anthropic>=0.30
+httpx>=0.27
+sqlalchemy>=2.0
